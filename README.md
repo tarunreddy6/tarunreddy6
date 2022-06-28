@@ -1,4 +1,4 @@
-### [tarunreddy6](https://github.com/tarunreddy6)
+### [tarunreddy6](https://github.com/tarunreddy6.io)
 
 👋 Hi, I'm a self-taught passionate FullStack developer from India 🇮🇳. 
 
