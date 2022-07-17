@@ -28,10 +28,9 @@
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=xiaoluoboding.xiaoluoboding)
-
+![visitors] (https://komarev.com/ghpvc/?username=tarunreddy6)
 -----
 
 Credits: [tarunkalluri6](https://github.com/tarunreddy6)
 
-<!-- Last Edited on: 21/06/2022 -->
+<!-- Last Edited on: 21/07/2022 -->
