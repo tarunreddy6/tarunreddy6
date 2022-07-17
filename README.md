@@ -28,7 +28,9 @@
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
-![viewing_Profile](https://komarev.com/ghpvc/?username=tarunreddy6)  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green) 
+![viewing_Profile](https://komarev.com/ghpvc/?username=tarunreddy6) 
+-----
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green) 
 
 -----
 
