@@ -8,7 +8,7 @@
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
 -  **Languages :** Java, SQL, Python
--  **Hobbies :** Volleyball :Travelling: & Music :headphones:
+-  **Hobbies :** Volleyball :Travelling: Voluntering & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
 -  **Contact me :** [TarunReddy](mailto:kalluritarunreddy6@gmail.com)
 -  **LinkedIn:** [connect](https://www.linkedin.com/in/tarunreddykalluri) 🙂
